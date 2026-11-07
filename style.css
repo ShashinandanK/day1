@@ -1,0 +1,22 @@
+body {
+    background-color:rgb(185, 186, 126);
+    color:black;
+}
+
+table {
+    color: white;
+    background-color: aqua;
+}
+
+h1 {
+    color: red;
+}
+#list1{
+    color:orangered;
+}
+#list2{
+    color: whitesmoke;
+}
+#list3{
+    color:green;
+}
